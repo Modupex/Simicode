@@ -1,6 +1,6 @@
 Market
-
+How it works
 App for seamless fin transaction
-Complex 
-Simple
-On the go
+Complex  (Merchant)
+Simple (Market woman)
+On the go (Driver)
