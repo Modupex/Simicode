@@ -1,6 +1,7 @@
 Market
 How it works
 App for seamless fin transaction
+Milestone
 Complex  (Merchant)
 Simple (Market woman)
 On the go (Driver)
